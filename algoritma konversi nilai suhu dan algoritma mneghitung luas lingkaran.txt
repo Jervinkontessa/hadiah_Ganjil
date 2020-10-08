@@ -1,0 +1,13 @@
+
+
+Konversi suhu
+1.Input besar suhu dalam satuan celcius 
+2.Untuk menghitung konversi suhu dari celcius ke fahrenheit, masukkan besar suhu ke dalam rumus berikut : F = (c*1,8)+32
+3.Untuk menghitung konversi suhu dari fahrenheit ke celcius, masukkan besar suhu ke dalam rumus berikut : C = (F-32)× 5/9 
+4.Output akan tampil, suhu dalam celcius dan Farenheit .
+
+Luas lingkaran
+1.masukkan nilai jari'
+2.buat variabel untuk menampung hasil perhitungan dengan rumus
+3.masukkan rumus di variable tadi 3,14*jari  (nilai jari yg di input td)
+4.output akan tampilkan hasil perhitungan menggunakan rumus itu.
